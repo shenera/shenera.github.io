@@ -1,4 +1,4 @@
 # pgas-javascript
 JavaScript Coding
 
-HELLO WORLD-WE ♥ to code!
+HELLO WORLD-PGAS ♥ to code!
