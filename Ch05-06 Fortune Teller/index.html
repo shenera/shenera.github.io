@@ -23,17 +23,7 @@
 
       var resultString = "You will meet a ";
 
-      if (Math.random() > 0.5)
-        resultString = resultString + "tall ";
-      else
-        resultString = resultString + "short ";
-
-      if (Math.random() > 0.5)
-        resultString = resultString + "blonde ";
-      else
-        resultString = resultString + "dark ";
-
-      resultString = resultString + "stranger.";
+     
 
       var resultElement = document.getElementById("resultParagraph");
       resultElement.innerText = resultString;
